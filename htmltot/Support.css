@@ -1,0 +1,29 @@
+body{
+  background: #04223c;
+}
+h1{
+
+  color: #51b7e0;
+    text-align: center;
+}
+div{
+  color: #51b7e0;
+  width: 300px;
+  padding:40px;
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  background: #04223c;
+  text-align: center;
+}
+form input[type ="email"],form textarea{
+  font-size: 1.5em;
+  color: #51b7e0;
+  border:0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #3498db;
+}
