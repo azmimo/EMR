@@ -3,9 +3,9 @@
 #include "MAX30100_PulseOximeter.h"
 #define REPORTING_PERIOD_MS     1000
 int ID=1;
-const char* ssid     = "TP-Link_5172";
-const char* password = "72920763";
-const char* host = "192.168.1.104";
+const char* ssid     = "**********";
+const char* password = "**********";
+const char* host"*********";
 int hr;
 int spo2;
 PulseOximeter pox;
